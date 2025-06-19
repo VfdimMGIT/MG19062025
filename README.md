@@ -8,5 +8,5 @@
 
 ## Установка и запуск
 1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/ваш_репозиторий/millionaire_game.git
+   
+   git clone https://github.com/VfdimMGIT/MG19062025
